@@ -1,0 +1,10 @@
+Linux Task.
+
+
+1. shutdown  ( +15 Shutting down in 15 minutes! )
+
+2. reboot
+
+3. halt
+
+4. poweroff
