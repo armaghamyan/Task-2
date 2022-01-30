@@ -2,8 +2,6 @@ Linux Task.
 
 
 1. shutdown  ( +15 Shutting down in 15 minutes! )
-   shutdown -c ( To cancel a shutdown, use the -c (cancel) option )
-   shutdown now  
 
 2. reboot
 
